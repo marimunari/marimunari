@@ -21,6 +21,4 @@
       </td>
      </tr>                                                                                                                            
   </tbody>
-</table>                                                                                                                                                                            <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimunari&layout=compact" width="400px" height="200px">
-</p>
+</table>                                                                                                                                                                           
