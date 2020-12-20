@@ -19,6 +19,8 @@
        <img src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/bongo-cat.gif" width="22px" height=22px" align="center">
         </p>
       </td>
-     </tr>
+     </tr>                                                                                                                            
   </tbody>
-</table>
+</table>                                                                                                                                                                            <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimunari&layout=compact" width="400px" height="200px">
+</p>
