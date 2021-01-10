@@ -14,7 +14,7 @@
       </td>
       <td>
         <h2>A little more about me...</h2>
-        <p align="justify">Hi, I'm Mari! I am a junior developer passionate about web development, mainly front-end. I am majoring in Database Technology and I am currently studying to     acquire knowledge and develop in the area of ​​technology. Some technologies I like to study with include CSS, JavaScript, TypeScript, ReactJS, PHP, NodeJS and   Flutter 
+        <p align="justify">Hi, I'm Mari! I am a junior developer passionate about web development. I am majoring in Database Technology and I am currently studying to     acquire knowledge and develop in the area of ​​technology. Some technologies I like to study with include CSS, JavaScript, TypeScript, ReactJS, PHP, NodeJS and   Flutter 
        <img src="https://github.com/Denver-Devs/emojis/blob/master/the_goods/bongo-cat.gif" width="22px" height=22px" align="center">
         </p>
       </td>
