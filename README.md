@@ -1,9 +1,8 @@
 ![Mariana Munari](https://github.com/marimunari/marimunari/blob/main/assets/header.png)
 
-> [!TIP]
-> I shall, in due time, be a Poet.
->
-> ― ***Ada Lovelace***
+```zsh
+> I shall, in due time, be a Poet (Ada Lovelace)
+```
 
 ![](https://github.com/marimunari/marimunari/blob/main/assets/divider.png)
 <h2>:thinking: About me</h2>
@@ -32,8 +31,12 @@ more and stay up-to-date with new technologies, I love growing in what I do!
 <h2>:mag: Find me</h2>                                                                                                                                                            
 
 <p>
-  <a href="https://br.linkedin.com/in/mariana-munari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:marianamunari4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/DavidsDvm](https://br.linkedin.com/in/mariana-munari)">
+    <img src="https://img.shields.io/badge/linkedin-e6d7ff?&style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  <a href="mailto:marianamunari4@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-e6d7ff?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+  </a>
 </p>
 
 <div>
